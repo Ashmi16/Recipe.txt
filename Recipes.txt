@@ -6,5 +6,7 @@ pizza
 momo
 chowmein
 fish fry
+burger 
+french fries
 
 thankyou
